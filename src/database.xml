@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<utenti>
+    <utente>
+        <nome>Marco</nome>
+        <cognome>Prelaz</cognome>
+        <dataNascita>31/08/91</dataNascita>
+        <luogoNascita>Padova</luogoNascita>
+        <indirizzo>via G. Pascoli 5</indirizzo>
+        <citta>Selvazzano Dentro</citta>
+        <provincia>Padova</provincia>
+        <telefono>3337601865</telefono>
+        <email>marcomak91@hotmail.it</email>
+        <titoloStudio>Diploma</titoloStudio>
+        <lingue>italiano</lingue>
+        <esperienzeLavorative></esperienzeLavorative>
+        <amici>mrossi,luke</amici>
+        <username>mak91</username>
+        <password>aaa</password>
+        <tipoUtente>Executive</tipoUtente>
+    </utente>
+    <utente>
+        <nome>Mario</nome>
+        <cognome>Rossi</cognome>
+        <dataNascita>11/04/74</dataNascita>
+        <luogoNascita>Roma</luogoNascita>
+        <indirizzo>via Leopardi 7/b</indirizzo>
+        <citta>Formello</citta>
+        <provincia>Roma</provincia>
+        <telefono>3476863301</telefono>
+        <email>mrossi@gmail.it</email>
+        <titoloStudio>Diploma</titoloStudio>
+        <lingue>italiano</lingue>
+        <esperienzeLavorative>esperienza 1
+esperienza 2</esperienzeLavorative>
+        <amici>mak91</amici>
+        <username>mrossi</username>
+        <password>aaa</password>
+        <tipoUtente>Basic</tipoUtente>
+    </utente>
+    <utente>
+        <nome>Luca</nome>
+        <cognome>Alba</cognome>
+        <dataNascita>17/05/82</dataNascita>
+        <luogoNascita>Milano</luogoNascita>
+        <indirizzo>Via U. Foscolo 25</indirizzo>
+        <citta>Collegno</citta>
+        <provincia>Torino</provincia>
+        <telefono>3381446317</telefono>
+        <email>luke8217@libero.it</email>
+        <titoloStudio>Laurea in Informatica</titoloStudio>
+        <lingue>italiano
+inglese
+tedesco</lingue>
+        <esperienzeLavorative>esperienza 1</esperienzeLavorative>
+        <amici>mrossi</amici>
+        <username>luke</username>
+        <password>aaa</password>
+        <tipoUtente>Business</tipoUtente>
+    </utente>
+</utenti>

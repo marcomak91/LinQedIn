@@ -1,0 +1,8 @@
+Come compilare il progetto?
+
+Dopo essersi posizionati nella cartella contenente i file di progetto (src), ese-
+guire da terminale il comando qmake che genera il Makefile collegando tra
+loro i file .h, .cpp e .ui(interfaccia grafica).
+Dopodiché sarà necessario semplicemente eseguire il comando make per com-
+pilare il progetto. Questo comando creerà nella cartella di compilazione un
+file eseguibile LinQedIn che potrà essere avviato mediante un doppio click.
